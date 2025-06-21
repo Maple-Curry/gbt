@@ -1,0 +1,5 @@
+Rabbit Hole Entrance|You stand above a curious rabbit hole. The White Rabbit darts by.
+Hallway|A long hallway with many doors of different sizes.
+Garden|A beautiful garden with colorful flowers and a cozy table. This is a safe place.
+Tea Party|A large table set for tea with many chairs around it.
+Queens Court|An intimidating court ruled by the Red Queen.

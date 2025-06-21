@@ -1,0 +1,5 @@
+White Rabbit|A hurried rabbit wearing a waistcoat.
+Cheshire Cat|A smiling cat that can disappear at will.
+Mad Hatter|A mad fellow fond of tea parties.
+March Hare|The Hatter's tea party companion.
+Red Queen|She rules the land with an iron fist.

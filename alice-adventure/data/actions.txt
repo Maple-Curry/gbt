@@ -1,0 +1,11 @@
+go
+north
+south
+east
+west
+take
+drop
+use
+look
+inventory
+quit
