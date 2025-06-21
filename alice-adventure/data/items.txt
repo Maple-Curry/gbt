@@ -1,0 +1,12 @@
+key|A small golden key.
+cake|A piece of cake labeled 'Eat Me'.
+bottle|A bottle labeled 'Drink Me'.
+fan|A lovely fan.
+gloves|A pair of white gloves.
+watch|The White Rabbit's pocket watch.
+teacup|A delicate porcelain teacup.
+hat|The Mad Hatter's hat.
+rose|A red rose.
+hedgehog|A sleepy hedgehog.
+tart|A delicious tart.
+flamingo|A pink flamingo used as a croquet mallet.
